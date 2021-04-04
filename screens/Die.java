@@ -1,4 +1,7 @@
+package screens;
+
 import greenfoot.*;
+import levels.Level1;
 
 public class Die extends World {
     

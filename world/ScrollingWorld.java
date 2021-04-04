@@ -1,4 +1,8 @@
+package world;
+
 import greenfoot.*;
+import players.ScrollingActor;
+
 import java.util.List;
 
 public abstract class ScrollingWorld extends World {

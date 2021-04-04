@@ -1,9 +1,12 @@
+package objects;
+
 import greenfoot.*;
+import players.Player;
 
 public class Food extends Player {
 
     public void act() 
     {
-        // Food doesn't do anything
+        // objects.Food doesn't do anything
     }    
 }

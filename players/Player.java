@@ -1,3 +1,5 @@
+package players;
+
 import greenfoot.*;
 import java.awt.Point;
 import java.util.List;

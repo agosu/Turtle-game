@@ -1,4 +1,11 @@
+package utils;
+
 import greenfoot.*;
+import levels.Level1;
+import levels.Level2;
+import levels.Level3;
+import players.Player;
+import players.Turtle;
 
 public class Counter extends Player {
 	

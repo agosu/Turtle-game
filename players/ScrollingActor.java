@@ -1,5 +1,6 @@
+package players;
+
 import greenfoot.*;
-import java.util.List;
 
 public abstract class ScrollingActor extends Player {
     private boolean scrollingCenter;

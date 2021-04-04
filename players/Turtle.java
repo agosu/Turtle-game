@@ -1,4 +1,10 @@
+package players;
+
+import enemies.TrackingEnemy;
 import greenfoot.*;
+import levels.Level1;
+import levels.Level2;
+import levels.Level3;
 
 public class Turtle extends ScrollingActor {
     int speed = 4;

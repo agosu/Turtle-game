@@ -1,3 +1,5 @@
+package screens;
+
 import greenfoot.*;
 
 public class Win extends World {

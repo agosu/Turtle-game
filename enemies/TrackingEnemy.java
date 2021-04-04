@@ -1,4 +1,8 @@
+package enemies;
+
 import greenfoot.*;
+import players.Player;
+import players.Turtle;
 
 public class TrackingEnemy extends Player {
 

@@ -1,4 +1,7 @@
+package objects;
+
 import greenfoot.*;
+import players.Player;
 
 public class Wall extends Player {
     public Wall() {
